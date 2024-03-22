@@ -32,3 +32,5 @@ npm run dev or yarn dev
 6. Now you can see the website
 
 7.You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+
+My name is Souradeep Hazra

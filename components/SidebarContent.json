@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Discussion Forum",
+    "icon": "Discussion"
+  },
+  {
+    "id": 2,
+    "name": "Market Stories",
+    "icon": "Market_story"
+  },
+  {
+    "id": 3,
+    "name": "Sentiment",
+    "icon": "Sentiment"
+  },
+  {
+    "id": 4,
+    "name": "Market",
+    "icon": "Market"
+  },
+  {
+    "id": 5,
+    "name": "Sector",
+    "icon": "Sector"
+  },
+  {
+    "id": 6,
+    "name": "Watchlist",
+    "icon": "Watchlist"
+  },
+  {
+    "id": 7,
+    "name": "Events",
+    "icon": "Events"
+  },
+  {
+    "id": 8,
+    "name": "News/Interview",
+    "icon": "News"
+  }
+]

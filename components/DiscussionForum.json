@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "img": "/profile.jpg",
+    "heading": "Lorem Ipsum",
+    "tag": "Sector 2",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor maxime asperiores vero fugit ut odit explicabo tempora temporibus, nulla accusantium.",
+    "like_count": "2k",
+    "view_count": "2k",
+    "comment_count": "2k"
+  },
+  {
+    "id": 2,
+    "img": "/profile.jpg",
+    "heading": "Lorem Ipsum",
+    "tag": "Sector 2",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor maxime asperiores vero fugit ut odit explicabo tempora temporibus, nulla accusantium.",
+    "like_count": "2k",
+    "view_count": "2k",
+    "comment_count": "2k"
+  },
+  {
+    "id": 3,
+    "img": "/profile.jpg",
+    "heading": "Lorem Ipsum",
+    "tag": "Sector 2",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor maxime asperiores vero fugit ut odit explicabo tempora temporibus, nulla accusantium.",
+    "like_count": "2k",
+    "view_count": "2k",
+    "comment_count": "2k"
+  },
+  {
+    "id": 4,
+    "img": "/profile.jpg",
+    "heading": "Lorem Ipsum",
+    "tag": "Sector 2",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor maxime asperiores vero fugit ut odit explicabo tempora temporibus, nulla accusantium.",
+    "like_count": "2k",
+    "view_count": "2k",
+    "comment_count": "2k"
+  }
+]

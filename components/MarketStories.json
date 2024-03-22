@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "heading": "The Coldest sunset",
+    "img": "/sunset.webp",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium,veniam. Sit tempore nobis fuga numquam cumque saepe et maiores cupiditate.Sit tempore nobis fuga numquam cumque saepe et maiores cupiditate."
+  },
+  {
+    "id": 2,
+    "heading": "The Coldest sunset",
+    "img": "/sunset.webp",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium,veniam. Sit tempore nobis fuga numquam cumque saepe et maiores cupiditate.Sit tempore nobis fuga numquam cumque saepe et maiores cupiditate."
+  },
+  {
+    "id": 3,
+    "heading": "The Coldest sunset",
+    "img": "/sunset.webp",
+    "description": " Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium,veniam. Sit tempore nobis fuga numquam cumque saepe et maiores cupiditate.Sit tempore nobis fuga numquam cumque saepe et maiores cupiditate."
+  }
+]
